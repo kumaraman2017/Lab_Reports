@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets (Do NOT commit sensitive API keys to GitHub!)
+.streamlit/secrets.toml
+
+# SQLite local database
+health_reports.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
