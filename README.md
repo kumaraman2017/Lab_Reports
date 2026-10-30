@@ -100,8 +100,8 @@ To eliminate LLM hallucinations on clinical mathematics and range checks, the ag
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/LLM_Lab_Reports.git
-cd LLM_Lab_Reports
+git clone https://github.com/kumaraman2017/Lab_Reports.git
+cd Lab_Reports
 ```
 
 ### 2. Create and activate a virtual environment
