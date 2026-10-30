@@ -20,40 +20,6 @@ MedCheck AI is an intelligent health report analyzer powered by **Google Gemini*
 - Python 3.10+
 - A Google Gemini API key ([Google AI Studio](https://aistudio.google.com/))
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-   cd <YOUR_REPO_NAME>
-   ```
-
-2. **Create and activate a virtual environment:**
-   ```bash
-   python -m venv .venv
-   # Windows:
-   .venv\Scripts\activate
-   # macOS/Linux:
-   source .venv/bin/activate
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure your API Key:**
-   Create `.streamlit/secrets.toml`:
-   ```toml
-   GEMINI_API_KEY = "your_gemini_api_key_here"
-   ```
-
-5. **Run the Streamlit app:**
-   ```bash
-   streamlit run app.py
-   ```
-
----
 
 ## ⚠️ Disclaimer
 *MedCheck AI is for informational and educational purposes only. It does not provide medical advice, diagnosis, or treatment recommendations. Always consult a licensed healthcare professional for medical concerns.*
