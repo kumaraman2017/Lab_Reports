@@ -18,3 +18,5 @@ health_reports.db
 .DS_Store
 Thumbs.db
 
+
+cloudflared.exe
